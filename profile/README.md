@@ -1,6 +1,7 @@
 # **Creating new packages**
 1. ### Use [this link](https://github.com/raremont/raremont-npm-package-template/generate) to create a new package from template.
-1. ### Update `package.json` with your repo name
+1. Clone your newly created repo.
+1. Update `package.json` with your repo name
 1. Write and push your code.
 1. Create a release from the GitHub UI - this will generate a npm package. See [Creating a release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release) for more details.
 > **REMEMBER:** Generate `package-lock.json` with `npm install`, commit and push it ***before*** creating a release.
