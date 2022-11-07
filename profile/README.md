@@ -14,5 +14,6 @@
      //npm.pkg.github.com/:_authToken=<YOUR_AUTH_TOKEN>
      ``` 
 1. Change `<YOUR_AUTH_TOKEN>` to your private token. You can get it [here](https://github.com/settings/tokens).
+    - > Select `read:packages` when choosing permissions for your token.
 2. Install packages normally.
    - E.g.: `npm install @raremont/raremont-utility@1.0.0`
