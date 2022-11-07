@@ -1,6 +1,6 @@
 # **Creating new packages**
-- ### Use [this link](https://github.com/raremont/raremont-npm-package-template/generate) to create a new package from template.
-
+1. ### Use [this link](https://github.com/raremont/raremont-npm-package-template/generate) to create a new package from template.
+1. ### Update `package.json` with your repo name
   
    ---
    
