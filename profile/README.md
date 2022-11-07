@@ -1,3 +1,9 @@
+# **Creating new packages**
+- ### Use [this link](https://github.com/raremont/raremont-npm-package-template/generate) to create a new package from template.
+
+  
+   ---
+   
 # How to use private NPM packages
 1. Create a file under `~/.npmrc` and paste the following:
    - ```ini
